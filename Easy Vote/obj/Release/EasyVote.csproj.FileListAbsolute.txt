@@ -1,3 +1,0 @@
-C:\Users\Nelson\Desktop\Easy Vote\Bin\Release\EasyVote\EasyVote.dll
-C:\Users\Nelson\Desktop\Easy Vote\Easy Vote\obj\Release\EasyVote.dll
-C:\Users\Nelson\Desktop\Easy Vote\Easy Vote\obj\Release\EasyVote.csprojResolveAssemblyReference.cache
